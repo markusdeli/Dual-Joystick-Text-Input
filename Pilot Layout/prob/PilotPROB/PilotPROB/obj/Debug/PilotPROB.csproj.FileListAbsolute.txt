@@ -1,0 +1,11 @@
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\bin\Debug\PilotPROB.exe.config
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\bin\Debug\PilotPROB.exe
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\bin\Debug\PilotPROB.pdb
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\obj\Debug\PilotPROB.csprojAssemblyReference.cache
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\obj\Debug\PilotPROB.Form1.resources
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\obj\Debug\PilotPROB.Properties.Resources.resources
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\obj\Debug\PilotPROB.csproj.GenerateResource.cache
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\obj\Debug\PilotPROB.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\obj\Debug\PilotPROB.exe
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\obj\Debug\PilotPROB.pdb
+C:\Users\marku\source\repos\PilotPROB\PilotPROB\obj\Debug\PilotPROB.FormPostTask.resources
