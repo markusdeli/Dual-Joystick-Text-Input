@@ -1,0 +1,11 @@
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\bin\Debug\PilotQWERTY.exe.config
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\bin\Debug\PilotQWERTY.exe
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\bin\Debug\PilotQWERTY.pdb
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\obj\Debug\PilotQWERTY.csprojAssemblyReference.cache
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\obj\Debug\PilotQWERTY.Form1.resources
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\obj\Debug\PilotQWERTY.Properties.Resources.resources
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\obj\Debug\PilotQWERTY.csproj.GenerateResource.cache
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\obj\Debug\PilotQWERTY.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\obj\Debug\PilotQWERTY.exe
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\obj\Debug\PilotQWERTY.pdb
+C:\Users\marku\source\repos\PilotQWERTY\PilotQWERTY\obj\Debug\PilotQWERTY.FormPostTask.resources
