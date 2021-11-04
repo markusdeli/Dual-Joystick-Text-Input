@@ -1,6 +1,10 @@
 # Dual-Joystick-Text-Input
+
 ## Übersicht
 ## Systemfunktion
+<img width="1200" alt="winklerSmall" src="https://user-images.githubusercontent.com/54246844/140308869-3f41a444-950b-407e-ab0c-39300f9c2850.png">  
+Zur Eingabe eines Zeichens, muss der entsprechende Joystick in den Eingabebereich geführt werden. Die Eingabe erfolgt erst nach der Rückführung des Joysticks in die Neutalposition. Durch gedrückthalten der L1-Taste können die Eingabeschichten vertauscht werden.  
+
 ## Entwicklungsschritte  
 ### 1. Evaluation der Eingabegenauigkeit der Joystickzonen: 
 <img width="500" alt="winkelzonen" src="https://user-images.githubusercontent.com/54246844/140296197-9265bb9f-440d-4f09-bbab-8fa08cb3cdac.PNG">  
