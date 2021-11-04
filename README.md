@@ -1,6 +1,10 @@
 # Dual-Joystick-Text-Input
 
 ## Übersicht
+<img width="500" alt="kreiseFinal" src="https://user-images.githubusercontent.com/54246844/140310287-8c08a8bf-cc80-4bdb-8d30-2cb009a9589c.PNG">  
+Dieses Projekt dient der Entwicklung und Evaluation eines Dual-Joystick Texteingabesystems für den XboxOne Controller.
+Das entwickelte System kodiert auf jedem Joystick je acht Zeichen, und ist im Vergleich zu einem Selection Keyboard schnell mit einer höheren Geschwindigkeit zu adaptieren.  
+
 ## Systemfunktion
 <img width="1200" alt="winklerSmall" src="https://user-images.githubusercontent.com/54246844/140308869-3f41a444-950b-407e-ab0c-39300f9c2850.png">  
 Zur Eingabe eines Zeichens, muss der entsprechende Joystick in den Eingabebereich geführt werden. Die Eingabe erfolgt erst nach der Rückführung des Joysticks in die Neutalposition. Durch gedrückthalten der L1-Taste können die Eingabeschichten vertauscht werden.  
