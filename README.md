@@ -27,3 +27,12 @@ Anordnung der Buchstaben anhand des QWERTY Layouts:
 Anordnung der Buchstaben anhand ihrer Häufigkeit in der englischen Literatur:  
 <img width="500" alt="13" src="https://user-images.githubusercontent.com/54246844/140301396-421cd86a-526f-4b08-b9a6-9ec96650ab37.png">  
 ## Ergebnisse
+In einer mehrtägigen Studie mussten Probanden jeden Tag Testeingaben mit dem Kreissystem und einem Selection Keyboard tätigen. Anhand der Eingaben wird die Systemperformance dargestellt.  
+Eingabegeschwindigkeit:  
+<img width="500" alt="cWpm" src="https://user-images.githubusercontent.com/54246844/140941631-fbd99658-458c-4357-a02c-783e46bd2341.png">  
+Keystrokes Per Character:  
+<img width="500" alt="kspc" src="https://user-images.githubusercontent.com/54246844/140941945-7dc3698c-4e90-4c72-89d8-d98a1a3d7dd2.png">    
+NASA Taskload:  
+<img width="500" alt="nasa" src="https://user-images.githubusercontent.com/54246844/140942693-cd7ab05c-c9c9-413a-b514-fc54440fbdb5.png">   
+Fehlerrate:  
+<img width="500" alt="err" src="https://user-images.githubusercontent.com/54246844/140942838-2022de33-2e04-4cf5-bb8f-765d9b826879.png">   
